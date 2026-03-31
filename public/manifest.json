@@ -1,0 +1,20 @@
+{
+  "short_name": "TifoPlanner",
+  "name": "Tifo Planner - Agenda Ultras",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#7F1D1D",
+  "background_color": "#fdfdfd"
+}
